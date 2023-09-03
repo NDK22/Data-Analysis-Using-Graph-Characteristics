@@ -1,6 +1,3 @@
-DBLP Data Analysis README
-Overview
-This Python script analyzes data from the DBLP dataset, focusing on various aspects such as authors, references, venues, and more. It performs several tasks, including data preprocessing, graph creation, clique detection, and more.
 DBLP Data Analysis Using Graph Characteristics
 Project II - Team 18 - Fall 2022
 Report By:
