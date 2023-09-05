@@ -25,24 +25,6 @@ The project involved uploading the DBLP dataset to Google Drive, reading the dat
 2. **Paper Citation Graph**: A directed graph connecting paper IDs with their references.
 3. **Author Venue Graph**: An undirected graph connecting authors to the venues where they presented their papers.
 
-## File Descriptions
-The project includes various files, primarily in .csv and .txt formats:
-
-- `dblp_v10.zip`: Input file containing the DBLP dataset in JSON format.
-- `author_edge_list_5.txt`: Edge list of the Known Author Graph (sample size 5).
-- `author_edge_list_output_5.txt`: Output of Known Author Graph characteristics (sample size 5).
-- `author_edge_list_20.txt`: Edge list of the Known Author Graph (sample size 20,000).
-- `author_edge_list_output_20.txt`: Output of Known Author Graph characteristics (sample size 20,000).
-- `reference_id_edge_list_5.txt`: Edge list of the Paper Citation Graph (sample size 5).
-- `reference_id_edge_list_output_5.txt`: Output of Paper Citation Graph characteristics (sample size 5).
-- `reference_id_edge_list_20.txt`: Edge list of the Paper Citation Graph (sample size 20,000).
-- `reference_id_edge_list_output_20.txt`: Output of Paper Citation Graph characteristics (sample size 20,000).
-- `author_venue_edge_list_5.txt`: Edge list of the Author Venue Graph (sample size 5).
-- `author_venue_edge_list_output_5.txt`: Output of Author Venue Graph characteristics (sample size 5).
-- `author_venue_edge_list_20.txt`: Edge list of the Author Venue Graph (sample size 20,000).
-- `author_venue_edge_list_output_20.txt`: Output of Author Venue Graph characteristics (sample size 20,000).
-- `DASC5300_Proj2_Fall22_team_18.ipynb`: Jupyter Notebook containing the code for data analysis.
-
 ## Division of Labour
 The project was completed individually, taking approximately 60 hours of work to finish.
 
