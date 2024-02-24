@@ -1,9 +1,7 @@
-# DBLP Data Analysis Using Graph Characteristics
-## Project II - Team 18 - Fall 2022
+# GraphXplore: Unveiling Insights in DBLP Dataset 
 
 ### Report By:
 Nikhil Das Karavatt
-Student ID: 1002085391
 
 ## Table of Contents
 1. [Overview](#overview)
